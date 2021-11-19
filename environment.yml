@@ -12,3 +12,4 @@ dependencies:
   - imageio
   - netcdf4
   - h5netcdf
+  - glob
