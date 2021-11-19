@@ -1,6 +1,7 @@
 name: final_proj
 channels:
   - conda-forge
+  - pip
   - defaults
 dependencies:
   - python
