@@ -1,7 +1,6 @@
 name: final_proj
 channels:
   - conda-forge
-  - pip
   - defaults
 dependencies:
   - python
@@ -13,4 +12,4 @@ dependencies:
   - imageio
   - netcdf4
   - h5netcdf
-  - glob
+  - glob2
