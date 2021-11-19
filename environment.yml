@@ -10,3 +10,5 @@ dependencies:
   - matplotlib
   - rioxarray
   - imageio
+  - netcdf4
+  - h5netcdf
