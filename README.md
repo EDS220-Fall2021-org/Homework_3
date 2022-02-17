@@ -64,4 +64,6 @@ Metadata for the merged Hadley-OI sea surface temperature (SST) and sea ice conc
 Data source and metadata: UCAR/NCAR - DASH Repository https://dashrepo.ucar.edu/dataset/158_asphilli.html
 
 Journal of Climate article explaining why the datasets were merged: https://journals.ametsoc.org/view/journals/clim/21/19/2008jcli2292.1.xml
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2021-org/Homework_3.git/HEAD)
